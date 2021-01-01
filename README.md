@@ -5,11 +5,9 @@
 
 #### FORMACIÓN
 **IES La Melva**, Elda: Bachiller Social.
-_AÑO DEL 2017 - 2019_
+_(AÑO DEL 2017 - 2019)_
 
-**IES Poeta Paco Molla**, Elda: Ciclo Superior de Desarrollo de Aplicaciones Web (Cursando).
-*** 
-_AÑO DEL 2019 - 2021_
+**IES Poeta Paco Molla**, Elda: Ciclo Superior de Desarrollo de Aplicaciones Web (Cursando)._(AÑO DEL 2019 - 2021)_
 
 **Experiencia en diferentes lenguajes**: Java, PHP, JavaScript, HTML y CSS. 
 
@@ -17,6 +15,6 @@ _AÑO DEL 2019 - 2021_
 
 ### IDIOMAS
 **Centro Santa María Del Carmen**, Elda : B1 Preliminary Cambridge English. 
-_AÑO DEL 2017 - 2017_
+_(AÑO DEL 2017 - 2017)_
                        
 
