@@ -1,5 +1,27 @@
-# Curriculum 
+# Alvaro Ruiz Fuentes
 ### Persona organizada, comprometida, con ganas de superación y mejorar mi formación laboral.
+
+#### DATOS
+Calle Pizarro, 12, 03600 Elda, Alicante
+03600 Elda (Alicante)
+(34) 654 191 871 
+alvaroruizfuentes.alu@iespacomolla.es
+
+- - -
+
+### APTITUDES
+Persona muy organizada.
+Emprendedora.
+Me manejo bien en cualquier situación.
+Trabajo productivamente en lo que me gusta
+
+- - -
+
+### LOGROS
+Carnet de Conducir B 
+Carnet de manipulador de alimentos
+
+
 
 - - - 
 
