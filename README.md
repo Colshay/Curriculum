@@ -8,7 +8,8 @@
 _AÑO DEL 2017 - 2019_
 
 **IES Poeta Paco Molla**, Elda: Ciclo Superior de Desarrollo de Aplicaciones Web (Cursando).
-*** _AÑO DEL 2019 - 2021_
+*** 
+_AÑO DEL 2019 - 2021_
 
 **Experiencia en diferentes lenguajes**: Java, PHP, JavaScript, HTML y CSS. 
 
