@@ -9,7 +9,7 @@ alvaroruizfuentes.alu@iespacomolla.es
 
 - - -
 
-### APTITUDES
+#### APTITUDES
 Persona muy organizada.
 Emprendedora.
 Me manejo bien en cualquier situación.
