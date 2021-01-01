@@ -39,7 +39,7 @@ _(AÑO DEL 2017 - 2019)_
 **Centro Santa María Del Carmen**, Elda : B1 Preliminary Cambridge English. 
 _(AÑO DEL 2017 - 2017)_
 
-![Texto alternativo](/ruta/a/la/imagen.jpg)
+![Texto alternativo](imagen.jpg)
 
                        
 
