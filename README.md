@@ -17,7 +17,7 @@ Trabajo productivamente en lo que me gusta
 
 - - -
 
-### LOGROS
+#### LOGROS
 Carnet de Conducir B 
 Carnet de manipulador de alimentos
 
@@ -35,7 +35,7 @@ _(AÑO DEL 2017 - 2019)_
 
 - - - 
 
-### IDIOMAS
+#### IDIOMAS
 **Centro Santa María Del Carmen**, Elda : B1 Preliminary Cambridge English. 
 _(AÑO DEL 2017 - 2017)_
                        
